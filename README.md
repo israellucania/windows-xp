@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0f4c5fbedd73f89a5d2f1fcbbf102eba3bc24bcb921b22f9b02f667eb144742a
-size 306
+# Windows XP
+Este reposiório disponibiliza a imagem do Windows XP SP3 em Português para fins de estudo
+A versão disponbilizada não conta com chave de ativdação, dessa forma, para fazer uso profissional entre em contato com o fabricante para aquisição da devida licença de uso, caso necessário
